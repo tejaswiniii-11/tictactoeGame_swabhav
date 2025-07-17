@@ -35,22 +35,16 @@ Unit tests are written using **JUnit 5** and can be found under:
 <img width="167" height="67" alt="image" src="https://github.com/user-attachments/assets/a1ab1fe3-0315-4a22-8c9e-57a0aadd8d28" />
 
 
-### ✅ To run tests:
-```bash
-mvn test
-
-
 🚀 How to Run
 Clone the repository or copy the files into a Maven project.
 
 Compile and run the main class:
-
-bash
-Copy
-Edit
 mvn compile
 mvn exec:java -Dexec.mainClass="com.tictactoe.GameRunner"
+
 💡 You may need to add the Maven Exec Plugin in pom.xml if not present.
+
+---
 
 🏁 Future Improvements
 Add AI for single-player mode
