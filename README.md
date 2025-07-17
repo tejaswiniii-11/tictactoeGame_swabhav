@@ -47,12 +47,9 @@ mvn exec:java -Dexec.mainClass="com.tictactoe.GameRunner"
 ---
 
 🏁 Future Improvements
-Add AI for single-player mode
-
-GUI version using JavaFX or Swing
-
-Timer-based turns
-
-Score tracking
+1. Add AI for single-player mode
+2. GUI version using JavaFX or Swing
+3. Timer-based turns
+4. Score tracking
 
 
