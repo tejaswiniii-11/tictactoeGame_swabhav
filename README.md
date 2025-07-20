@@ -22,12 +22,6 @@ A fun and interactive 2-player **Tic-Tac-Toe game** built with **Java** using cl
 
 ---
 
-## 🗂 Project Structure
-
-<img width="279" height="95" alt="image" src="https://github.com/user-attachments/assets/6be5b4d1-7fc7-49cb-adca-5919f83e7859" />
-
----
-
 ## 🧪 Testing
 
 Unit tests are written using **JUnit 5** and can be found under:
